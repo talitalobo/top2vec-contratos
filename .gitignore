@@ -1,0 +1,10 @@
+.Rproj.user
+.Rhistory
+*.RData
+.Ruserdata
+.DS_Store
+
+/data
+*.csv
+/venv_top
+Contratos-Top2Vec
